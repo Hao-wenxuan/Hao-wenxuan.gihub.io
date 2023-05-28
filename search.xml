@@ -107,11 +107,11 @@
       
         <tags>
             
+            <tag> binary </tag>
+            
             <tag> ctf </tag>
             
             <tag> web </tag>
-            
-            <tag> binary </tag>
             
             <tag> general </tag>
             
@@ -192,11 +192,11 @@
       
         <tags>
             
-            <tag> binary </tag>
-            
             <tag> DLL </tag>
             
             <tag> 外挂 </tag>
+            
+            <tag> binary </tag>
             
         </tags>
       
